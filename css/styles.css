@@ -1,0 +1,15 @@
+/* Open Sans: 400, 600,700, Raleway: 700,
+color #ffffff; #9DA4BD; #303030; rgba(157, 164, 189, 0.6);
+*/
+:root {
+	--titleColor: #303030;
+	--liteColor: #9DA4BD;
+	--textColor: #555555;
+	--accentColor: #FF6C00;
+}
+body {
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	font-style: normal;
+}
